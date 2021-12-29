@@ -1,2 +1,0 @@
-bass BOOTCODE.asm
-
